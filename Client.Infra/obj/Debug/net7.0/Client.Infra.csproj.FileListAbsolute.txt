@@ -1,0 +1,12 @@
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Infra\bin\Debug\net7.0\Client.Infra.deps.json
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Infra\bin\Debug\net7.0\Client.Infra.dll
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Infra\bin\Debug\net7.0\Client.Infra.pdb
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Infra\obj\Debug\net7.0\Client.Infra.csproj.AssemblyReference.cache
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Infra\obj\Debug\net7.0\Client.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Infra\obj\Debug\net7.0\Client.Infra.AssemblyInfoInputs.cache
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Infra\obj\Debug\net7.0\Client.Infra.AssemblyInfo.cs
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Infra\obj\Debug\net7.0\Client.Infra.csproj.CoreCompileInputs.cache
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Infra\obj\Debug\net7.0\Client.Infra.dll
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Infra\obj\Debug\net7.0\refint\Client.Infra.dll
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Infra\obj\Debug\net7.0\Client.Infra.pdb
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Infra\obj\Debug\net7.0\ref\Client.Infra.dll

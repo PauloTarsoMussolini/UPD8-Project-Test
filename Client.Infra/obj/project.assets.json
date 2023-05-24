@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ptars\\source\\repos\\UPD8\\Client.Infra\\Client.Infra.csproj",
+      "projectUniqueName": "C:\\Users\\ptars\\source\\repos\\UPD8-Project-Test\\Client.Infra\\Client.Infra.csproj",
       "projectName": "Client.Infra",
-      "projectPath": "C:\\Users\\ptars\\source\\repos\\UPD8\\Client.Infra\\Client.Infra.csproj",
+      "projectPath": "C:\\Users\\ptars\\source\\repos\\UPD8-Project-Test\\Client.Infra\\Client.Infra.csproj",
       "packagesPath": "C:\\Users\\ptars\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ptars\\source\\repos\\UPD8\\Client.Infra\\obj\\",
+      "outputPath": "C:\\Users\\ptars\\source\\repos\\UPD8-Project-Test\\Client.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ptars\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

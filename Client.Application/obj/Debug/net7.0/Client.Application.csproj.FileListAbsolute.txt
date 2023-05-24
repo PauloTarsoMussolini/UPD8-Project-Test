@@ -1,0 +1,15 @@
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Application\bin\Debug\net7.0\Client.Application.deps.json
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Application\bin\Debug\net7.0\Client.Application.dll
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Application\bin\Debug\net7.0\Client.Application.pdb
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Application\bin\Debug\net7.0\Client.Domain.dll
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Application\bin\Debug\net7.0\Client.Domain.pdb
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Application\obj\Debug\net7.0\Client.Application.csproj.AssemblyReference.cache
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Application\obj\Debug\net7.0\Client.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Application\obj\Debug\net7.0\Client.Application.AssemblyInfoInputs.cache
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Application\obj\Debug\net7.0\Client.Application.AssemblyInfo.cs
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Application\obj\Debug\net7.0\Client.Application.csproj.CoreCompileInputs.cache
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Application\obj\Debug\net7.0\Client.Application.csproj.CopyComplete
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Application\obj\Debug\net7.0\Client.Application.dll
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Application\obj\Debug\net7.0\refint\Client.Application.dll
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Application\obj\Debug\net7.0\Client.Application.pdb
+C:\Users\ptars\source\repos\UPD8-Project-Test\Client.Application\obj\Debug\net7.0\ref\Client.Application.dll
